@@ -19,7 +19,7 @@
 
 # Schemat płytki :
 
-![img](projekt/labs-tm-project/firmwire/Arduino-Uno-R3-Schematic.png)
+![img](./firmwire/Arduino-Uno-R3-Schematic.png)
 
 # Schematy podłączenia elementów do płytki :
 
@@ -28,8 +28,8 @@
 
 # Zdjęcie połączonych elementów do płytki :
 
-![img](projekt/labs-tm-project/firmwire/zdj1.png)
-![img](projekt/labs-tm-project/firmwire/zdj2.png)
+![img](./firmwire/zdj1.png)
+![img](./firmwire/zdj2.png)
 
 # Kod programu:
 
