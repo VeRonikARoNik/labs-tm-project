@@ -27,7 +27,7 @@
 
 # Schematy podłączenia wyświetlacza LCD-03336:
 
-![img]./firmwire/Schemat podłącznia wyświetlacza.jpg)
+![img](./firmwire/Schemat podłącznia wyświetlacza.jpg)
 
 # Zdjęcie połączonych elementów do płytki :
 
