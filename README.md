@@ -21,9 +21,12 @@
 
 ![img](./firmwire/Arduino-Uno-R3-Schematic.png)
 
-# Schematy podłączenia elementów do płytki :
+# Schemat podłączenia czujnika HC-SR04:
 
 ![img](projekt/labs-tm-project/firmwire/Czujnik odległości.png)
+
+# Schematy podłączenia wyświetlacza LCD-03336:
+
 ![img](projekt/labs-tm-project/firmwire/Schemat podłącznia wyświetlacza.jpg)
 
 # Zdjęcie połączonych elementów do płytki :
