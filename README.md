@@ -24,7 +24,7 @@
 # Schematy podłączenia elementów do płytki :
 
 ![img](projekt/labs-tm-project/firmwire/Czujnik odległości.png)
-![img](projekt/labs-tm-project/firmwire/Schemat podłącznia wyświetlacza.png)
+![img](projekt/labs-tm-project/firmwire/Schemat podłącznia wyświetlacza.jpg)
 
 # Zdjęcie połączonych elementów do płytki :
 
