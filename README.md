@@ -25,7 +25,7 @@
 
 ![img](./firmwire/zdj3.png)
 
-# Schematy podłączenia wyświetlacza LCD-03336:
+# Schemat podłączenia wyświetlacza LCD-03336:
 
 ![img](./firmwire/zdj.png)
 
