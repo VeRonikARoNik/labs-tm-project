@@ -23,11 +23,11 @@
 
 # Schemat podłączenia czujnika HC-SR04:
 
-![img](projekt/labs-tm-project/firmwire/Czujnik odległości.png)
+![img](./firmwire/Czujnik odległości.png)
 
 # Schematy podłączenia wyświetlacza LCD-03336:
 
-![img](projekt/labs-tm-project/firmwire/Schemat podłącznia wyświetlacza.jpg)
+![img]./firmwire/Schemat podłącznia wyświetlacza.jpg)
 
 # Zdjęcie połączonych elementów do płytki :
 
