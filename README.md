@@ -19,17 +19,17 @@
 
 # Schemat płytki :
 
-![img](./hardware/Arduino-Uno-R3-Schematic.png)
+![img](projekt/labs-tm-project/firmwire/Arduino-Uno-R3-Schematic.png)
 
 # Schematy podłączenia elementów do płytki :
 
-![img](./hardware/Czujnik odległości.png)
-![img](./hardware/Schemat podłącznia wyświetlacza.png)
+![img](projekt/labs-tm-project/firmwire/Czujnik odległości.png)
+![img](projekt/labs-tm-project/firmwire/Schemat podłącznia wyświetlacza.png)
 
 # Zdjęcie połączonych elementów do płytki :
 
-![img](./hardware/zdj1.png)
-![img](./hardware/zdj2.png)
+![img](projekt/labs-tm-project/firmwire/zdj1.png)
+![img](projekt/labs-tm-project/firmwire/zdj2.png)
 
 # Kod programu:
 
