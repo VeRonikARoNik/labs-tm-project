@@ -23,7 +23,7 @@
 
 # Schemat podłączenia czujnika HC-SR04:
 
-![img](./firmwire/zdj.png)
+![img](./firmwire/zdj3.png)
 
 # Schematy podłączenia wyświetlacza LCD-03336:
 
